@@ -30,7 +30,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/wedding.png",
         "BakedGoodPrice":  "Starting from $150.00 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "BakedGoodDescription": "Here comes the bride and groom! One of the most speical days in both of their lives to unite in marriage. It's a day to celebrate a lifetime of love, life, and happiness. Followed by a wedding comes a wedding reception where the couple celebrates with their loved ones. At Mary's Bakery, we offer a numerous amount of options to celebrate your wedding day. We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8inch double layer cake, 2, 3, or 4 tiered cake.",
         "miniDetailDescription": "For The Big Day!"
     },
     {
@@ -39,7 +39,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpg",
         "BakedGoodPrice":  "Starting from $35.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "BakedGoodDescription": "Baby Showers is a time to celebrate someone who is expecting a birth of a child and for a woman who is transitioning to a mother. You celebrate this day with loved ones where you eat and socialize, gift-give and play fun baby shower games! We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8inch single or double layer cake, 2 tired or 3 tiered cake.",
         "miniDetailDescription": "Baby Showers or Gender Reveals"
     },
     {
@@ -47,7 +47,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/graduation.jpg",
         "BakedGoodPrice":  "Starting from $19.99 and up ",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "BakedGoodDescription": "Way to go class of 2020! A day to celebrate all your hard work and determination for your diploma/degree, it's defintely a day you won't forget. Mary's Bakery offers special cakes for graduation parties. We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8inch single or double layer cake, 2 tired or 3 tiered cake.",
         "miniDetailDescription": "High School, College or Programs"
     },
     {
@@ -55,7 +55,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/bridal.jpg",
         "BakedGoodPrice":  "Starting from $24.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Bridal Showers are hosted before a bride-to-be's big wedding day! It's a gathering with the bride's loved one and her bridemaids where it can be celebrated over brunch, cocktails, a dinner party and more. To celebrate their special day, we give several cake options from a regular buttercream cake or fondant. You have the selection from choosing an 8inch double layer cake, 2 tired or 3 tiered cake.",
+        "BakedGoodDescription": "Bridal Showers are hosted before a bride-to-be's big wedding day! It's a gathering with the bride's loved one and her bridemaids where it can be celebrated over brunch, cocktails, a dinner party and more. To celebrate their special day, we give several cake options from a regular buttercream cake or fondant. You have the selection from choosing an 8inch single or double layer cake, 2 tired or 3 tiered cake.",
         "miniDetailDescription": "Right Before The Big Day!"
     },
     {
@@ -71,7 +71,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/holiday.jpg",
         "BakedGoodPrice":  "Starting from $29.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "BakedGoodDescription": "Here at Mary's Bakery, we make other special occasion cakes! We also speicalize in Easter cakes, Independence day, Thanksgiving, New Year's, Winter Holiday cakes and more!  We offer regular butter cream or a fondant cake on an 8inch single or double layer cake.",
         "miniDetailDescription": "Any Other Holiday!"
     }
   ],

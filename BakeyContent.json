@@ -1,0 +1,87 @@
+{
+    
+"BakeryContent": [
+    {
+        "BakeryCategory":  "Birthdays",
+        "BakedGoodItem":  "Cupcakes",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/birthdaycake.jpg",
+        "BakedGoodPrice":  "$9.99",
+        "BakedGoodQuantity": "12ct",
+        "BakedGoodFlavors":  "Chocolate or Vanilla",
+        "BakedGoodDescription": "You will get a dozen of cupcakes in your order"
+    },
+    {
+        "BakeryCategory":  "Kid's Birthday",
+        "BakedGoodItem":  "Cake",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/kidscake.jpg",
+        "BakedGoodPrice":  "$25.99",
+        "BakedGoodQuantity": "1",
+        "BakedGoodFlavors":  "Chocolate, Vanilla, or Marble",
+        "BakedGoodDescription": "You have three different types of flavors to choose from! It's a 8 inch double layer cake."
+    },
+    {
+        "BakeryCategory":  "Sweet 15/16",
+        "BakedGoodItem":  "Cakepops",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/quince.jpg",
+        "BakedGoodPrice":  "$12.99",
+        "BakedGoodQuantity": "12ct",
+        "BakedGoodFlavors":  "Chocolate, Vanilla or Strawberry",
+        "BakedGoodDescription": "Cake pops are great for dessert tables! They come in three different flavors"
+    },
+    {
+        "BakeryCategory":  "Wedding",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/wedding.png",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Baby Shower",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Graduation",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/graduation.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Bridal Shower",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/bridal.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Father's Day",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/fathersday.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Holiday",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/holiday.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    }
+  ],
+  "Status":"OK"
+}

@@ -2,36 +2,36 @@
     
 "BakeryContent": [
     {
-        BakedGoodItem:  "Cupcakes",
-        BakedGoodImage: "quincecake.png",
-        BakedGoodPrice:  "$9.99",
-        BakedGoodQuantity: "12ct",
-        BakedGoodFlavors:  "Chocolate or Vanilla",
-        BakedGoodDescription: "You will get a dozen of cupcakes in your order"
+        "BakedGoodItem":  "Cupcakes",
+        "BakedGoodImage": "quincecake.png",
+        "BakedGoodPrice":  "$9.99",
+        "BakedGoodQuantity": "12ct",
+        "BakedGoodFlavors":  "Chocolate or Vanilla",
+        "BakedGoodDescription": "You will get a dozen of cupcakes in your order"
     },
     {
-        BakedGoodItem:  "Cake",
-        BakedGoodImage: "quincecake.png",
-        BakedGoodPrice:  "$25.99",
-        BakedGoodQuantity: "1",
-        BakedGoodFlavors:  "Chocolate, Vanilla, or Marble",
-        BakedGoodDescription: "You have three different types of flavors to choose from! It's a 8 inch double layer cake."
+        "BakedGoodItem":  "Cake",
+        "BakedGoodImage": "quincecake.png",
+        "BakedGoodPrice":  "$25.99",
+        "BakedGoodQuantity": "1",
+        "BakedGoodFlavors":  "Chocolate, Vanilla, or Marble",
+        "BakedGoodDescription": "You have three different types of flavors to choose from! It's a 8 inch double layer cake."
     },
     {
-        BakedGoodItem:  "Cakepops",
-        BakedGoodImage: "quincecake.png",
-        BakedGoodPrice:  "$12.99",
-        BakedGoodQuantity: "12ct",
-        BakedGoodFlavors:  "Chocolate, Vanilla or Strawberry",
-        BakedGoodDescription: "Cake pops are great for dessert tables! They come in three different flavors"
+        "BakedGoodItem":  "Cakepops",
+        "BakedGoodImage": "quincecake.png",
+        "BakedGoodPrice":  "$12.99",
+        "BakedGoodQuantity": "12ct",
+        "BakedGoodFlavors":  "Chocolate, Vanilla or Strawberry",
+        "BakedGoodDescription": "Cake pops are great for dessert tables! They come in three different flavors"
     },
     {
-        BakedGoodItem:  "Mini Fruit Tarts",
-        BakedGoodImage: "quincecake.png",
-        BakedGoodPrice:  "22.99",
-        BakedGoodQuantity: "15ct",
-        BakedGoodFlavors:  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        BakedGoodDescription: "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "quincecake.png",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
     },
   ],
   "Status":"OK"

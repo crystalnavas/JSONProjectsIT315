@@ -54,6 +54,33 @@
         "BakedGoodQuantity": "15ct",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Bridal Shower",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/bridal.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Father's Day",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/fathersday.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+    },
+    {
+        "BakeryCategory":  "Holiday",
+        "BakedGoodItem":  "Mini Fruit Tarts",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/holiday.jpg",
+        "BakedGoodPrice":  "22.99",
+        "BakedGoodQuantity": "15ct",
+        "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
     }
   ],
   "Status":"OK"

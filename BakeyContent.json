@@ -6,28 +6,32 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/birthdaycake.jpg",
         "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate or Vanilla",
-        "BakedGoodDescription": "You will get a dozen of cupcakes in your order"
+        "BakedGoodDescription": "You will get a dozen of cupcakes in your order",
+        "miniDetailDescription": "Family, Friend, Boss, and More"
     },
     {
         "BakeryCategory":  "Kid's Birthday",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/kidscake.jpg",
         "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate, Vanilla, or Marble",
-        "BakedGoodDescription": "You have three different types of flavors to choose from! It's a 8 inch double layer cake."
+        "BakedGoodDescription": "You have three different types of flavors to choose from! It's a 8 inch double layer cake.",
+        "miniDetailDescription": "Kids From Ages 1-14"
     },
     {
         "BakeryCategory":  "Sweet 15/16",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/quince.jpg",
         "BakedGoodPrice":  "Starting from $79.99 and up",
         "BakedGoodFlavors":  "Chocolate, Vanilla or Strawberry",
-        "BakedGoodDescription": "Cake pops are great for dessert tables! They come in three different flavors"
+        "BakedGoodDescription": "Cake pops are great for dessert tables! They come in three different flavors",
+        "miniDetailDescription": "Sweet 16s and Quinceañeras"
     },
     {
         "BakeryCategory":  "Wedding",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/wedding.png",
         "BakedGoodPrice":  "Starting from $150.00 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "miniDetailDescription": ""
     },
     {
         "BakeryCategory":  "Baby Shower",
@@ -35,35 +39,40 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpg",
         "BakedGoodPrice":  "Starting from $35.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "miniDetailDescription": "Baby Showers or Gender Reveals"
     },
     {
         "BakeryCategory":  "Graduation",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/graduation.jpg",
         "BakedGoodPrice":  "Starting from $19.99 and up ",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "miniDetailDescription": "High School, College or Programs"
     },
     {
         "BakeryCategory":  "Bridal Shower",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/bridal.jpg",
         "BakedGoodPrice":  "Starting from $24.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "miniDetailDescription": "Right Before The Big Day!"
     },
     {
         "BakeryCategory":  "Father's Day",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/fathersday.jpg",
         "BakedGoodPrice":  "Starting from $17.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "miniDetailDescription": "Father's Day or Mother's Day"
     },
     {
         "BakeryCategory":  "Holiday",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/holiday.jpg",
         "BakedGoodPrice":  "Starting from $29.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
+        "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!",
+        "miniDetailDescription": "Any Other Holiday!"
     }
   ],
   "Status":"OK"

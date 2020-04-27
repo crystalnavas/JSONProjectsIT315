@@ -71,7 +71,7 @@
        "flavors": "More",
         "frostings": "More",
         "fillings": "More",
-        "designs": "More""
+        "designs": "More"
     },
     {
         "BakeryCategory":  "Bridal Shower",
@@ -108,7 +108,7 @@
         "frostings": "More",
         "fillings": "More",
         "designs": "More"
-     },
+     }
   ],
   "Status":"OK"
 }

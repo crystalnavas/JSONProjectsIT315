@@ -44,14 +44,13 @@
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Here comes the bride and groom! One of the most special days in both of their lives to unite in marriage. It's a day to celebrate a lifetime of love, life, and happiness. Followed by a wedding comes a wedding reception where the couple celebrates with their loved ones. At Mary's Bakery, we offer a numerous amount of options to celebrate your wedding day. We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8 or 10 inch double layer cake, 2, 3, or 4 tiered cake.",
         "miniDetailDescription": "For The Big Day!",
-         "flavors":   "hello",
-         "frostings": "hello",
-         "fillings":  "hello",
-         "designs":    "hello"
+        "flavors":   "hello",
+        "frostings": "hello",
+        "fillings":  "hello",
+        "designs":    "hello"
     },
     {
         "BakeryCategory":  "Baby Shower",
-        "BakedGoodItem":  "Mini Fruit Tarts",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpg",
         "BakedGoodPrice":  "Starting from $35.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",

@@ -4,7 +4,7 @@
     {
         "BakeryCategory":  "Birthdays",
         "BakedGoodItem":  "Cupcakes",
-        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpeg",
+        "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/birthdaycake.jpg",
         "BakedGoodPrice":  "$9.99",
         "BakedGoodQuantity": "12ct",
         "BakedGoodFlavors":  "Chocolate or Vanilla",

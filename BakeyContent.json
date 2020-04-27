@@ -4,14 +4,14 @@
     {
         "BakeryCategory":  "Birthdays",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/birthdaycake.jpg",
-        "BakedGoodPrice":  "$Starting from $15.99 and up",
+        "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate or Vanilla",
         "BakedGoodDescription": "You will get a dozen of cupcakes in your order"
     },
     {
         "BakeryCategory":  "Kid's Birthday",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/kidscake.jpg",
-        "BakedGoodPrice":  "$Starting from $15.99 and up",
+        "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate, Vanilla, or Marble",
         "BakedGoodDescription": "You have three different types of flavors to choose from! It's a 8 inch double layer cake."
     },

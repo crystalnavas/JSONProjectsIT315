@@ -11,7 +11,7 @@
         "BakedGoodDescription": "You will get a dozen of cupcakes in your order"
     },
     {
-        "BakeryCategory":  "Graduation",
+        "BakeryCategory":  "Kid's Birthday",
         "BakedGoodItem":  "Cake",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpeg",
         "BakedGoodPrice":  "$25.99",
@@ -20,7 +20,7 @@
         "BakedGoodDescription": "You have three different types of flavors to choose from! It's a 8 inch double layer cake."
     },
     {
-        "BakeryCategory":  "Wedding",
+        "BakeryCategory":  "Sweet 16",
         "BakedGoodItem":  "Cakepops",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpeg",
         "BakedGoodPrice":  "$12.99",
@@ -29,7 +29,7 @@
         "BakedGoodDescription": "Cake pops are great for dessert tables! They come in three different flavors"
     },
     {
-        "BakeryCategory":  "Sweet 16",
+        "BakeryCategory":  "Wedding",
         "BakedGoodItem":  "Mini Fruit Tarts",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpeg",
         "BakedGoodPrice":  "22.99",
@@ -47,7 +47,7 @@
         "BakedGoodDescription": "Fruit tarts are a crowd pleaser for any special occasion! Please choose from an assortment of fruits or you have the option to get one fruit only!"
     },
     {
-        "BakeryCategory":  "Kid's Party",
+        "BakeryCategory":  "Graduation",
         "BakedGoodItem":  "Mini Fruit Tarts",
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/babyshower.jpeg",
         "BakedGoodPrice":  "22.99",

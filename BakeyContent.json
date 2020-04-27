@@ -3,7 +3,7 @@
 "BakeryContent": [
     {
         "BakedGoodItem":  "Cupcakes",
-        "BakedGoodImage": "kidscake.jpeg",
+        "BakedGoodImage": "https://www.handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg",
         "BakedGoodPrice":  "$9.99",
         "BakedGoodQuantity": "12ct",
         "BakedGoodFlavors":  "Chocolate or Vanilla",
@@ -11,7 +11,7 @@
     },
     {
         "BakedGoodItem":  "Cake",
-        "BakedGoodImage": "kidscake.jpeg",
+        "BakedGoodImage": "https://www.handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg",
         "BakedGoodPrice":  "$25.99",
         "BakedGoodQuantity": "1",
         "BakedGoodFlavors":  "Chocolate, Vanilla, or Marble",
@@ -19,7 +19,7 @@
     },
     {
         "BakedGoodItem":  "Cakepops",
-        "BakedGoodImage": "kidscake.jpeg",
+        "BakedGoodImage": "https://www.handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg",
         "BakedGoodPrice":  "$12.99",
         "BakedGoodQuantity": "12ct",
         "BakedGoodFlavors":  "Chocolate, Vanilla or Strawberry",
@@ -27,7 +27,7 @@
     },
     {
         "BakedGoodItem":  "Mini Fruit Tarts",
-        "BakedGoodImage": "kidscake.jpeg",
+        "BakedGoodImage": "https://www.handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg",
         "BakedGoodPrice":  "22.99",
         "BakedGoodQuantity": "15ct",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",

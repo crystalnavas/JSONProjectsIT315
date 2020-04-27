@@ -7,7 +7,7 @@
         "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate or Vanilla",
         "BakedGoodDescription": "Let’s celebrate your birthday! Whether it's your close friend's birthday, your mom, your dad, your significant other or even a coworker or your boss, Mary's Bakery has you covered! We specialize in decorating cakes with rose decor, balloons, borders and different piping tip styles as well! You have the selection from choosing an 8 or 10 inch single or double layer cake, 2 tired or 3 tiered cake. Contact us if you wish to order a larger cake.",
-        "miniDetailDescription": "Family, Friend, Boss, and More"
+        "miniDetailDescription": "Family, Friend, Boss, and More",
     },
     {
         "BakeryCategory":  "Kid's Birthday",
@@ -15,7 +15,7 @@
         "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate, Vanilla, or Marble",
         "BakedGoodDescription": "Kids' birthdays are always fun and festive! We specialize in several themes such as a Unicorn theme, Super Mario, Disney Movies, Superheroes, Mickey Mouse and more! We hope to make their birthday cake stand out and have kids excited to eat cake! You have the selection from choosing an 8 or 10 inch single or double layer cake. Contact us if you wish to order a larger cake.",
-        "miniDetailDescription": "Kids From Ages 1-14"
+        "miniDetailDescription": "Kids From Ages 1-14",
     },
     {
         "BakeryCategory":  "Sweet 15/16",
@@ -23,7 +23,7 @@
         "BakedGoodPrice":  "Starting from $79.99 and up",
         "BakedGoodFlavors":  "Chocolate, Vanilla or Strawberry",
         "BakedGoodDescription": "Happy Sweet 16/Quince Años! This is a very special day in a young girl's life where it's not just any birthday, it's a birthday where it's celebrating a transition from a girlhood to womanhood! To make this day special for your loved one, we give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8 or 10 inch single or double layer cake, 2 tired or 3 tiered cake.",
-        "miniDetailDescription": "Sweet 16s and Quinceañeras"
+        "miniDetailDescription": "Sweet 16s and Quinceañeras",
     },
     {
         "BakeryCategory":  "Wedding",
@@ -31,7 +31,11 @@
         "BakedGoodPrice":  "Starting from $150.00 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Here comes the bride and groom! One of the most special days in both of their lives to unite in marriage. It's a day to celebrate a lifetime of love, life, and happiness. Followed by a wedding comes a wedding reception where the couple celebrates with their loved ones. At Mary's Bakery, we offer a numerous amount of options to celebrate your wedding day. We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8 or 10 inch double layer cake, 2, 3, or 4 tiered cake.",
-        "miniDetailDescription": "For The Big Day!"
+        "miniDetailDescription": "For The Big Day!",
+         "flavors":   "",
+         "frostings": "",
+         "fillings":  "",
+         "designs:    ""
     },
     {
         "BakeryCategory":  "Baby Shower",
@@ -40,7 +44,11 @@
         "BakedGoodPrice":  "Starting from $35.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Baby Showers is a time to celebrate someone who is expecting a birth of a child and for a woman who is transitioning to a mother. You celebrate this day with loved ones where you eat and socialize, gift-giving and play fun baby shower games! We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8 or 10 inch single or double layer cake, 2 tired or 3 tiered cake.",
-        "miniDetailDescription": "Baby Showers or Gender Reveals"
+        "miniDetailDescription": "Baby Showers or Gender Reveals",
+         "flavors":   "",
+         "frostings": "",
+         "fillings":  "",
+         "designs:    ""
     },
     {
         "BakeryCategory":  "Graduation",
@@ -48,7 +56,11 @@
         "BakedGoodPrice":  "Starting from $19.99 and up ",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Way to go class of 2020! A day to celebrate all your hard work and determination for your diploma/degree, it's definitely a day you won't forget. Mary's Bakery offers special cakes for graduation parties. We give several cake options from a regular buttercream or fondant. You have the selection from choosing an 8 or 10 inch single or double layer cake, 2 tired or 3 tiered cake.",
-        "miniDetailDescription": "High School, College or Programs"
+        "miniDetailDescription": "High School, College or Programs",
+         "flavors":   "",
+         "frostings": "",
+         "fillings":  "",
+         "designs:    ""
     },
     {
         "BakeryCategory":  "Bridal Shower",
@@ -56,7 +68,11 @@
         "BakedGoodPrice":  "Starting from $24.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Bridal Showers are hosted before a bride-to-be's big wedding day! It's a gathering with the bride's loved one and her bridesmaids where it can be celebrated over brunch, cocktails, a dinner party and more. To celebrate their special day, we give several cake options from a regular buttercream cake or fondant. You have the selection from choosing an 8 or 10inch single or double layer cake, 2 tired or 3 tiered cake.",
-        "miniDetailDescription": "Right Before The Big Day!"
+        "miniDetailDescription": "Right Before The Big Day!",
+         "flavors":   "",
+         "frostings": "",
+         "fillings":  "",
+         "designs:    ""
     },
     {
         "BakeryCategory":  "Father's Day",
@@ -64,7 +80,11 @@
         "BakedGoodPrice":  "Starting from $17.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Father's/Mother's Day is a day to honor your parent, grandparent, step parent or one that raised you as their own son or daughter. It's a day to influence all the parents in society and appreciate their well-being and care of their loved one. Celebrate this day with a cake to brighten up and make the day more special! We offer regular butter cream or a fondant cake on an 8 or 10 inch single or double layer cake.",
-        "miniDetailDescription": "Father's Day or Mother's Day"
+        "miniDetailDescription": "Father's Day or Mother's Day",
+         "flavors":   "",
+         "frostings": "",
+         "fillings":  "",
+         "designs:    ""
     },
     {
         "BakeryCategory":  "Holiday",
@@ -72,7 +92,11 @@
         "BakedGoodPrice":  "Starting from $29.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Here at Mary's Bakery, we make other special occasion cakes! We also specialize in Easter cakes, Independence day, Thanksgiving, New Year's, Winter Holiday cakes and more! We offer regular butter cream or a fondant cake on an 8 or 10 inch single or double layer cake.",
-        "miniDetailDescription": "Any other Special Occasion"
+        "miniDetailDescription": "Any other Special Occasion",
+         "flavors":   "",
+         "frostings": "",
+         "fillings":  "",
+         "designs:    ""
     },
   ],
   "Status":"OK"

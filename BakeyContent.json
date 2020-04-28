@@ -11,7 +11,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Confetti",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Custard, Fruit, Dulce De Leche, Whipped",
-        "designs": "Flowers, Balloons, Swirls, Bows, Polka Dots"
+        "designs": "Flowers, Balloons, Swirls, Bows, Polka Dots",
+        "size": "Double 8 Inch or 10 Inch"
     },
     {
         "BakeryCategory":  "Kid's Birthday",
@@ -23,7 +24,8 @@
         "flavors": "Chocolate, Vanilla, Marble, Confetti",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Whipped",
-        "designs": "Super Mario, Disney Movies, Nickeloen/Nick Jr Shows, Superheroes, Mickey Mouse, Beach, Carnival, and more"
+        "designs": "Super Mario, Disney Movies, Nickeloen/Nick Jr Shows, Superheroes, Mickey Mouse, Beach, Carnival, and more",
+        "size": "Double 8 Inch or 10 Inch"
     },
     {
         "BakeryCategory":  "Sweet 15/16",
@@ -35,7 +37,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Red Velvet, Carrot",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped",
-        "designs": "Fondant Flowers, Actual Flowers, Bedazzle, Bows, Ribbons, Swirls"
+        "designs": "Fondant Flowers, Actual Flowers, Bedazzle, Bows, Ribbons, Swirls",
+        "size": "2 or 3 Tiered Cake"
     },
     {
         "BakeryCategory":  "Wedding",
@@ -47,7 +50,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Red Velvet, Carrot, Lemon, Strawberry",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped, Fruit Glazed, Actual Fruit",
-        "designs": "Fondant Flowers, Actual Flowers, Stencil Design, Jewels"
+        "designs": "Fondant Flowers, Actual Flowers, Stencil Design, Jewels",
+        "size": "2, 3, or 4 Tiered Cake"
     },
     {
         "BakeryCategory":  "Baby Shower",
@@ -59,7 +63,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot, Lemon, Strawberry",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Whipped, Fruit Glazed, Actual Fruit",
-        "designs": "Flowers, Bows, Balloons, Stars, Clouds, Polka Dots"
+        "designs": "Flowers, Bows, Balloons, Stars, Clouds, Polka Dots",
+        "size": "Double 8 Inch or 10 Inch Cake, or Small 2 Tiered Cake"
     },
     {
         "BakeryCategory":  "Graduation",
@@ -71,7 +76,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped",
-        "designs": "Flowers, Balloons, Bows, Cap, Diploma, Polka Dots"
+        "designs": "Flowers, Balloons, Bows, Cap, Diploma, Polka Dots",
+        "size": "Double 8 Inch or 10 Inch Cake, or 2 Tiered Cake"
     },
     {
         "BakeryCategory":  "Bridal Shower",
@@ -83,7 +89,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped",
-        "designs": "Fondant Flowers, Actual Flowers, Bows, Swirls"
+        "designs": "Fondant Flowers, Actual Flowers, Bows, Swirls",
+        "size": "Double 8 Inch or 10 Inch Cake, or Small 2 Tiered Cake"
     },
     {
         "BakeryCategory":  "Father's Day",
@@ -95,7 +102,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot, Strawberry, Lemon",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Cream Cheese, Whipped",
-        "designs": "Balloons, Flowers, Swirls"
+        "designs": "Balloons, Flowers, Swirls",
+        "size": "Double 8 Inch or 10 Inch Cake"
     },
     {
         "BakeryCategory":  "Holiday",
@@ -107,7 +115,8 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot, Carrot, Banana, Lemon, Strawberry",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Whipped, Fruit Glazed, Actual Fruit",
-        "designs": "Flowers, Sprinkles, Swirls, Snowflakes, Pumpkins, Leaves, Polka Dots, Bows"
+        "designs": "Flowers, Sprinkles, Swirls, Snowflakes, Pumpkins, Leaves, Polka Dots, Bows",
+        "size": "Double 8 Inch or 10 Inch Cake, or Small 2 Tiered Cake"
      }
   ],
   "Status":"OK"

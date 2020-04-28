@@ -19,7 +19,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/kidscake.jpg",
         "BakedGoodPrice":  "Starting from $15.99 and up",
         "BakedGoodFlavors":  "Chocolate, Vanilla, Marble, Confetti",
-        "BakedGoodDescription": "Kids' birthdays are always fun and festive! We specialize in several themes and hope to make their birthday cake stand out and have kids excited to eat cake! Click on the More Info link to learn more!",
+        "BakedGoodDescription": "Kids' birthdays are always fun and festive! Here at Mary's Bakery, we specialize in several kid's themes. We hope to make their birthday cakes stand out and have kids excited to eat cake! Click on the More Info link to learn more!",
         "miniDetailDescription": "Kids From Ages 1-14",
         "flavors": "Chocolate, Vanilla, Marble, Confetti",
         "frostings": "Buttercream, Whipped, Fondant",
@@ -51,7 +51,7 @@
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped, Fruit Glazed, Actual Fruit",
         "designs": "Fondant Flowers, Actual Flowers, Stencil Design, Jewels",
-        "size": "2, 3, or 4 Tiered Cake"
+        "size": "2, 3, 4 or 5 Tiered Cake"
     },
     {
         "BakeryCategory":  "Baby Shower",
@@ -71,7 +71,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/graduation.jpg",
         "BakedGoodPrice":  "Starting from $19.99 and up ",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Way to go class of 2020! A day to celebrate all your hard work and determination for your diploma/degree, it's definitely a day you won't forget. Mary's Bakery offers special cakes for graduation parties. Click on the More Info link to learn more!",
+        "BakedGoodDescription": "Way to go class of 2020! A day to celebrate all your hard work and determination for your degree/diploma, it's definitely a day you will never forget. Mary's Bakery offers special cakes for graduation parties. Click on the More Info link to learn more!",
         "miniDetailDescription": "High School, College or Programs",
         "flavors": "Vanilla, Chocolate, Marble, Carrot",
         "frostings": "Buttercream, Whipped, Fondant",
@@ -110,7 +110,7 @@
         "BakedGoodImage": "https://raw.githubusercontent.com/crystalnavas/JSONProjectsIT315/master/holiday.jpg",
         "BakedGoodPrice":  "Starting from $29.99 and up",
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
-        "BakedGoodDescription": "Here at Mary's Bakery, we make other special occasion cakes! We also specialize in Easter cakes, Independence day, Thanksgiving, New Year's, Winter Holiday cakes and more! Click on the More Info link to learn more!",
+        "BakedGoodDescription": "Here at Mary's Bakery, we make other special occasion cakes! We also specialize in Easter cakes, Independence day, Thanksgiving, New Year's, Winter, Holiday cakes and more! Click on the More Info link to learn more!",
         "miniDetailDescription": "Any Other Special Occasion",
         "flavors": "Vanilla, Chocolate, Marble, Carrot, Carrot, Banana, Lemon, Strawberry",
         "frostings": "Buttercream, Whipped, Fondant",

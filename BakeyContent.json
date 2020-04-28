@@ -35,7 +35,7 @@
         "flavors": "Vanilla, Chocolate, Marble, Red Velvet, Carrot",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped",
-        "designs": "Fondant Flowers, Actual Flowers, Bedazzle, Bows, Ribbons, Swirls, "
+        "designs": "Fondant Flowers, Actual Flowers, Bedazzle, Bows, Ribbons, Swirls"
     },
     {
         "BakeryCategory":  "Wedding",
@@ -59,7 +59,7 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot, Lemon, Strawberry",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Whipped, Fruit Glazed, Actual Fruit",
-        "designs": "Flowers, Bows, Balloons, Stars, Clouds"
+        "designs": "Flowers, Bows, Balloons, Stars, Clouds, Polka Dots"
     },
     {
         "BakeryCategory":  "Graduation",
@@ -71,7 +71,7 @@
         "flavors": "Vanilla, Chocolate, Marble, Carrot",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Caramel, Cream Cheese, Whipped",
-        "designs": "Flowers, Balloons, Bows, Cap, Diploma"
+        "designs": "Flowers, Balloons, Bows, Cap, Diploma, Polka Dots"
     },
     {
         "BakeryCategory":  "Bridal Shower",
@@ -92,7 +92,7 @@
         "BakedGoodFlavors":  "Assortment of Stawberry, Kiwi and Blackberries or one fruit",
         "BakedGoodDescription": "Father's/Mother's Day is a day to honor your parent, grandparent, step parent or one that raised you as their own son or daughter. It's a day to influence all the parents in society and appreciate their well-being and care of their loved one. Celebrate this day with a cake to brighten up and make the day more special! We offer regular butter cream or a fondant cake on an 8 or 10 inch single or double layer cake.",
         "miniDetailDescription": "Father's Day or Mother's Day",
-        "flavors": "Vanilla, Chocolate, Marble, Carrot",
+        "flavors": "Vanilla, Chocolate, Marble, Carrot, Strawberry, Lemon",
         "frostings": "Buttercream, Whipped, Fondant",
         "fillings": "Vanilla, Chocolate, Cream Cheese, Whipped",
         "designs": "Balloons, Flowers, Swirls"
